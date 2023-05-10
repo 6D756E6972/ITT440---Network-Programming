@@ -1,0 +1,7 @@
+same as the first two
+
+Usage:
+telnet <ip address> <port>
+
+The connection handler wait for some message from a client as long as the client is connected.
+If the client disconnects , the connection handler ends.

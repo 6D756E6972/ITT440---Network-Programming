@@ -1,0 +1,5 @@
+Client must connect to telnet to access server 
+
+Usage:
+telnet <ip address> <port>
+

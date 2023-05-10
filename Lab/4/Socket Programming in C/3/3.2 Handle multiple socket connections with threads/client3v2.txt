@@ -1,0 +1,6 @@
+same as the previous client3.txt
+
+Usage:
+telnet <ip address> <port>
+
+but, this time try it more than one time

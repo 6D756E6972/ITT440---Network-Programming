@@ -1,0 +1,5 @@
+Server:
+./<exe filename> <port>
+
+Client:
+./<exe filename> <ip address / hostname> <port>

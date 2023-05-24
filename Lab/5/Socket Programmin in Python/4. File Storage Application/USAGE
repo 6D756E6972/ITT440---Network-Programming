@@ -1,0 +1,3 @@
+file to send must be in the same directory as the .py file
+
+if not, put /path/to/filename in that section

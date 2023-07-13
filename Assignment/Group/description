@@ -1,0 +1,6 @@
+This is my group assignment for subject Network Programming, ITT440.
+
+This assignment is about a simple TCP based client-server application that implement the client and server using different programming language combination.
+The server can manipulate the text stream by combining the incoming text from client with server current date and return it back to client.
+
+  

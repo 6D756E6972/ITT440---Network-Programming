@@ -40,5 +40,23 @@ and at the client will be:
 
 ![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/967c58f1-e598-4234-8375-fb3d58e683c4)
 
+### Question 3
+
+You are required to create client-server program in Python programming language for pressure conversion.  You may choose either tcp or udp transmission protocol.
+
+a) Write a server program that will convert received pressure in bar to atmosphere-standard.
+
+b) Write a client program to get user input pressure value in bar and display received atmosphere-standard value from server.  Display it accordingly.
+
+There is no pressure writing [this](https://github.com/6D756E6972/ITT440-Network-Programming/tree/main/Assignment/Skill%20Based%20Test/Question%203) code.
+
+The server will output this:
+
+![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/e369da43-c841-4b44-a033-55e1ac944549)
+
+The client will output this:
+
+![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/1f85bcb1-5ca9-4f5f-8dcc-86223f622dcc)
+
 
 

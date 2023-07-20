@@ -22,7 +22,7 @@ def handle_client(client_socket):
     client_socket.close()
 
 def start_server():
-    host = "0.0.0.0"  # Use "0.0.0.0" to listen on all available interfaces
+    host = "0.0.0.0"
     port = 8888
 
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

@@ -42,7 +42,6 @@ int main()
 
     while (1)
     {
-        // Accept a client connection
         client_address_length = sizeof(client_address);
         client_socket = accept(server_socket, (struct sockaddr *)&client_address, &client_address_length);
         if (client_socket < 0)

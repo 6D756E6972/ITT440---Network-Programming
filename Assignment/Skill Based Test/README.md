@@ -48,7 +48,7 @@ a) Write a server program that will convert received pressure in bar to atmosphe
 
 b) Write a client program to get user input pressure value in bar and display received atmosphere-standard value from server.  Display it accordingly.
 
-There is no pressure writing [this](https://github.com/6D756E6972/ITT440-Network-Programming/tree/main/Assignment/Skill%20Based%20Test/Question%203) code.
+There is no pressure writing [this](https://github.com/6D756E6972/ITT440-Network-Programming/tree/main/Assignment/Skill%20Based%20Test/Question%203) code. 😆
 
 The server will output this:
 
@@ -62,4 +62,15 @@ The client will output this:
 
 Write a Quote of the Day (QOTD) server in python which uses a threading library to handle multiple requests from the client.  The quote must be stored in an array and the server must retrieve the quote in a randomised manner.  The server must use TCP protocol at port 8888.
 
-The code for this is [here]()
+You can get some quotes [here](https://github.com/6D756E6972/ITT440-Network-Programming/tree/main/Assignment/Skill%20Based%20Test/Question%204)
+
+The server will output this:
+
+![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/855f5bcb-9fad-46dd-af3a-bd56c4fb187b)
+
+and for the client:
+
+![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/d935584f-63d0-4517-8ebd-52d6484bab0f)
+
+
+Okay that's it. Thanks to Sir Izani for teaching this subject! 😘💌

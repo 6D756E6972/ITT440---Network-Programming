@@ -17,3 +17,6 @@ Once connected, send your UiTM Student ID to the server and read the server resp
 
 For the coding, you can see [here](https://github.com/6D756E6972/ITT440-Network-Programming/tree/main/Assignment/Skill%20Based%20Test/Question%201)
 
+and this will be the output
+![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/b8103d55-0883-411d-8155-88e655cbf4bd)
+

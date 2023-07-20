@@ -58,5 +58,8 @@ The client will output this:
 
 ![image](https://github.com/6D756E6972/ITT440-Network-Programming/assets/129729880/1f85bcb1-5ca9-4f5f-8dcc-86223f622dcc)
 
+### Question 4
 
+Write a Quote of the Day (QOTD) server in python which uses a threading library to handle multiple requests from the client.  The quote must be stored in an array and the server must retrieve the quote in a randomised manner.  The server must use TCP protocol at port 8888.
 
+The code for this is [here]()
